@@ -1,0 +1,54 @@
+{
+  "skipIfPresent": "yourproduct.com",
+
+  "targets": [
+    {
+      "repo": "someone/awesome-saas-directories",
+      "title": "Add YourProduct",
+      "commit": "Add YourProduct",
+      "body": "Adds **YourProduct** to Specialized SaaS Directories.\n\n- Site: https://yourproduct.com\n- Free listing, manually reviewed.\n\nHappy to move the row if it belongs elsewhere.",
+      "edits": [
+        {
+          "path": "README.md",
+          "mode": "after",
+          "anchor": "- [SaaSHub](https://www.saashub.com/)",
+          "content": "- [YourProduct](https://yourproduct.com/) - One clear sentence, matching the style of the surrounding lines."
+        }
+      ]
+    },
+
+    {
+      "repo": "someone/directory-table",
+      "title": "Add YourProduct",
+      "body": "Adds YourProduct to the directory table, alphabetically.",
+      "edits": [
+        {
+          "path": "README.md",
+          "mode": "before",
+          "anchor": "| [Zapier](https://zapier.com)",
+          "content": "| [YourProduct](https://yourproduct.com) | 46 | Free | [Submit](https://yourproduct.com/submit) |"
+        }
+      ]
+    },
+
+    {
+      "repo": "someone/directory-site",
+      "title": "Add YourProduct",
+      "body": "Adds YourProduct to the dataset rather than the README.",
+      "edits": [
+        {
+          "path": "data/directories.json",
+          "mode": "append_json_array",
+          "content": "  {\n    \"name\": \"YourProduct\",\n    \"url\": \"https://yourproduct.com\",\n    \"pricing\": \"free\"\n  }"
+        },
+        {
+          "path": "data/categories.json",
+          "mode": "between",
+          "anchor": "\"name\": \"Directories\"",
+          "until": "\n      ]",
+          "content": ",\n        { \"title\": \"YourProduct\", \"url\": \"https://yourproduct.com\" }"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1509 @@
+{
+  "updatedAt": "2026-07-31",
+  "count": 150,
+  "domainRatingSource": "Ahrefs",
+  "license": "CC BY 4.0",
+  "note": "Curated free subset. The full 2,404-directory dataset lives at https://saascity.io",
+  "directories": [
+    {
+      "name": "Reddit",
+      "domain": "reddit.com",
+      "url": "https://www.reddit.com/",
+      "dr": 95,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Forbes Cloud 100",
+      "domain": "forbes.com",
+      "url": "https://www.forbes.com/cloud100",
+      "dr": 94.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "SaaS Tools",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Trustpilot",
+      "domain": "trustpilot.com",
+      "url": "https://trustpilot.com",
+      "dr": 94.0,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Software Reviews",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Digg",
+      "domain": "digg.com",
+      "url": "https://digg.com",
+      "dr": 92.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Fastcompany",
+      "domain": "fastcompany.com",
+      "url": "http://www.fastcompany.com",
+      "dr": 92.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Sourceforge",
+      "domain": "sourceforge.net",
+      "url": "https://sourceforge.net/",
+      "dr": 92,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Stack Overflow",
+      "domain": "stackoverflow.com",
+      "url": "https://stackoverflow.com",
+      "dr": 92.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Developer Tools",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "TechCrunch",
+      "domain": "techcrunch.com",
+      "url": "https://techcrunch.com",
+      "dr": 92,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "The Verge",
+      "domain": "theverge.com",
+      "url": "https://www.theverge.com",
+      "dr": 92.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Wired",
+      "domain": "wired.com",
+      "url": "http://www.wired.com",
+      "dr": 92.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "BostInno Startups, Tech News and Events",
+      "domain": "bizjournals.com",
+      "url": "https://bizjournals.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Capterra",
+      "domain": "capterra.com",
+      "url": "https://www.capterra.com/",
+      "dr": 91,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Clutch",
+      "domain": "clutch.co",
+      "url": "https://clutch.co",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Software Reviews",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "CNET",
+      "domain": "cnet.com",
+      "url": "https://www.cnet.com/news",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Crunchbase",
+      "domain": "crunchbase.com",
+      "url": "https://crunchbase.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Startup Directory",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "CrunchBase News",
+      "domain": "news.crunchbase.com",
+      "url": "https://news.crunchbase.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Entrepreneur",
+      "domain": "entrepreneur.com",
+      "url": "https://entrepreneur.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "G2",
+      "domain": "g2.com",
+      "url": "https://www.g2.com/",
+      "dr": 91,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Hacker News",
+      "domain": "news.ycombinator.com",
+      "url": "https://news.ycombinator.com",
+      "dr": 91,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Inc. Magazine",
+      "domain": "inc.com",
+      "url": "https://www.inc.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Mashable",
+      "domain": "mashable.com",
+      "url": "https://mashable.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Mashable India",
+      "domain": "in.mashable.com",
+      "url": "https://in.mashable.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "PCMag",
+      "domain": "pcmag.com",
+      "url": "https://pcmag.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Software Reviews",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Product Hunt",
+      "domain": "producthunt.com",
+      "url": "https://www.producthunt.com/",
+      "dr": 91,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Spotlight by Y Combinator",
+      "domain": "ycombinator.com",
+      "url": "https://www.ycombinator.com/launches",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "TechRadar Pro",
+      "domain": "techradar.com",
+      "url": "https://www.techradar.com/pro",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Software Reviews",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "VentureBeat",
+      "domain": "venturebeat.com",
+      "url": "https://venturebeat.com",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Zapier App Directory",
+      "domain": "zapier.com",
+      "url": "https://zapier.com/apps",
+      "dr": 91.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "SaaS Tools",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Engadget",
+      "domain": "engadget.com",
+      "url": "http://www.engadget.com",
+      "dr": 90.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Gizmodo",
+      "domain": "gizmodo.com",
+      "url": "http://www.gizmodo.com",
+      "dr": 90.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Make App Directory",
+      "domain": "make.com",
+      "url": "https://www.make.com/en/integrations",
+      "dr": 90.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "SaaS Tools",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "MIT Technology Review",
+      "domain": "technologyreview.com",
+      "url": "https://www.technologyreview.com",
+      "dr": 90.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "Smashing Magazine",
+      "domain": "smashingmagazine.com",
+      "url": "https://www.smashingmagazine.com",
+      "dr": 90.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "PC World",
+      "domain": "pcworld.com",
+      "url": "https://www.pcworld.com",
+      "dr": 88.0,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Tech / Startups",
+      "source": "saascity-superlist"
+    },
+    {
+      "name": "StartupFA.me",
+      "domain": "startupfa.me",
+      "url": "https://startupfa.me/",
+      "dr": 83,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Fazier",
+      "domain": "fazier.com",
+      "url": "https://fazier.com/",
+      "dr": 82,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Dang AI",
+      "domain": "dang.ai",
+      "url": "https://dang.ai/",
+      "dr": 81,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Indie Hackers",
+      "domain": "indiehackers.com",
+      "url": "https://indiehackers.com",
+      "dr": 81,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Twelve Tools",
+      "domain": "twelve.tools",
+      "url": "https://twelve.tools/",
+      "dr": 81,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "findly.tools",
+      "domain": "findly.tools",
+      "url": "https://findly.tools",
+      "dr": 80,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SaaSHub",
+      "domain": "saashub.com",
+      "url": "https://www.saashub.com/",
+      "dr": 80,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Turbo0",
+      "domain": "turbo0.com",
+      "url": "https://turbo0.com/?via=launchdirectories",
+      "dr": 80,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AlternativeTo",
+      "domain": "alternativeto.net",
+      "url": "https://alternativeto.net/",
+      "dr": 79,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Toolpilot",
+      "domain": "toolpilot.ai",
+      "url": "https://www.toolpilot.ai/",
+      "dr": 78,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Peerlist",
+      "domain": "peerlist.io",
+      "url": "https://peerlist.io/",
+      "dr": 77,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "There's An AI For That",
+      "domain": "theresanaiforthat.com",
+      "url": "https://theresanaiforthat.com/?via=krzysztof",
+      "dr": 77,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "BetaList",
+      "domain": "betalist.com",
+      "url": "https://betalist.com/",
+      "dr": 76,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Alternative.me",
+      "domain": "alternative.me",
+      "url": "https://alternative.me/",
+      "dr": 75,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "LaunchIgniter",
+      "domain": "launchigniter.com",
+      "url": "https://launchigniter.com/",
+      "dr": 75,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SubmitAiTools",
+      "domain": "submitaitools.org",
+      "url": "https://submitaitools.org/",
+      "dr": 75,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Uneed",
+      "domain": "uneed.best",
+      "url": "https://www.uneed.best?atp=pBmSdT",
+      "dr": 75,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "PeerPush",
+      "domain": "peerpush.net",
+      "url": "https://peerpush.net/",
+      "dr": 73,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SoftwareWorld",
+      "domain": "softwareworld.co",
+      "url": "https://www.softwareworld.co/",
+      "dr": 73,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Aura++",
+      "domain": "auraplusplus.com",
+      "url": "https://auraplusplus.com/",
+      "dr": 72,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "FoundrList",
+      "domain": "foundrlist.com",
+      "url": "https://foundrlist.com/",
+      "dr": 72,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "neeed.directory",
+      "domain": "neeed.directory",
+      "url": "https://neeed.directory/",
+      "dr": 72,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "TinyLaunch",
+      "domain": "tinylaunch.com",
+      "url": "https://www.tinylaunch.com/",
+      "dr": 72,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Open Launch",
+      "domain": "open-launch.com",
+      "url": "https://open-launch.com/",
+      "dr": 71,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SideProjectors",
+      "domain": "sideprojectors.com",
+      "url": "https://www.sideprojectors.com/",
+      "dr": 71,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "startupfa.st",
+      "domain": "startupfa.st",
+      "url": "https://www.startupfa.st/",
+      "dr": 71,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "magicbox.tools",
+      "domain": "magicbox.tools",
+      "url": "https://magicbox.tools/",
+      "dr": 70,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Smol Launch",
+      "domain": "smollaunch.com",
+      "url": "https://smollaunch.com/",
+      "dr": 70,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Tiny Startups",
+      "domain": "tinystartups.com",
+      "url": "https://tinystartups.com/",
+      "dr": 70,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Versily",
+      "domain": "versily.com",
+      "url": "https://versily.com",
+      "dr": 70,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Future Tools",
+      "domain": "futuretools.io",
+      "url": "https://www.futuretools.io/",
+      "dr": 69,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Pitchwall",
+      "domain": "pitchwall.co",
+      "url": "https://pitchwall.co/",
+      "dr": 69,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "TrustMRR",
+      "domain": "trustmrr.com",
+      "url": "https://trustmrr.com/",
+      "dr": 69,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AiTools",
+      "domain": "aitools.inc",
+      "url": "https://aitools.inc/",
+      "dr": 68,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "NextGen Tools",
+      "domain": "nxgntools.com",
+      "url": "https://www.nxgntools.com",
+      "dr": 68,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Openhunts",
+      "domain": "openhunts.com",
+      "url": "https://openhunts.com/",
+      "dr": 67,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "StartupBase",
+      "domain": "startupbase.io",
+      "url": "https://startupbase.io/",
+      "dr": 67,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "acidtools.com",
+      "domain": "acidtools.com",
+      "url": "https://acidtools.com/",
+      "dr": 66,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "toolsfine",
+      "domain": "toolsfine.com",
+      "url": "https://toolsfine.com/",
+      "dr": 65,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Launch Llama Tools",
+      "domain": "tools.launchllama.co",
+      "url": "https://tools.launchllama.co/",
+      "dr": 64,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Startup Stash",
+      "domain": "startupstash.com",
+      "url": "https://startupstash.com/",
+      "dr": 64,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "DevHunt",
+      "domain": "devhunt.org",
+      "url": "https://devhunt.org/",
+      "dr": 62,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "MicroLaunch",
+      "domain": "microlaunch.net",
+      "url": "https://microlaunch.net/",
+      "dr": 61,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Super Launch",
+      "domain": "superlaun.ch",
+      "url": "https://www.superlaun.ch",
+      "dr": 61,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Indie Deals",
+      "domain": "indie.deals",
+      "url": "https://www.indie.deals/",
+      "dr": 60,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Toolfio",
+      "domain": "toolfio.com",
+      "url": "https://toolfio.com/",
+      "dr": 60,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "aiwith.me",
+      "domain": "aiwith.me",
+      "url": "https://aiwith.me/",
+      "dr": 59,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "FridayHunt",
+      "domain": "fridayhunt.com",
+      "url": "https://fridayhunt.com/",
+      "dr": 59,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Huzzler",
+      "domain": "huzzler.so",
+      "url": "https://huzzler.so/",
+      "dr": 59,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Indiehunt",
+      "domain": "indiehunt.io",
+      "url": "https://indiehunt.io/",
+      "dr": 59,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "EarlyHunt",
+      "domain": "earlyhunt.com",
+      "url": "https://earlyhunt.com/",
+      "dr": 58,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Unite List",
+      "domain": "unitelist.com",
+      "url": "https://unitelist.com/",
+      "dr": 56,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SaasHunt",
+      "domain": "saashunt.best",
+      "url": "https://saashunt.best/",
+      "dr": 55,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Startups Lab",
+      "domain": "startupslab.site",
+      "url": "https://startupslab.site",
+      "dr": 55,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Firsto",
+      "domain": "firsto.co",
+      "url": "https://firsto.co/",
+      "dr": 54,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Launch",
+      "domain": "trylaunch.ai",
+      "url": "https://trylaunch.ai/",
+      "dr": 54,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "hot100",
+      "domain": "hot100.ai",
+      "url": "https://www.hot100.ai/",
+      "dr": 52,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Launching Next",
+      "domain": "launchingnext.com",
+      "url": "https://www.launchingnext.com/",
+      "dr": 52,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Shipybara",
+      "domain": "shipybara.com",
+      "url": "https://shipybara.com/",
+      "dr": 52,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AI Tech Viral",
+      "domain": "aitechviral.com",
+      "url": "https://aitechviral.com/",
+      "dr": 51,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Open Alternative",
+      "domain": "openalternative.co",
+      "url": "https://openalternative.co/",
+      "dr": 51,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AppaList",
+      "domain": "appalist.com",
+      "url": "https://appalist.com/",
+      "dr": 50,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Daily Pings",
+      "domain": "dailypings.com",
+      "url": "https://dailypings.com/",
+      "dr": 50,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "IdeaKiln",
+      "domain": "ideakiln.com",
+      "url": "https://ideakiln.com",
+      "dr": 50,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "rankinpublic.xyz",
+      "domain": "rankinpublic.xyz",
+      "url": "https://rankinpublic.xyz/",
+      "dr": 50,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Promote Project",
+      "domain": "promoteproject.com",
+      "url": "https://www.promoteproject.com/",
+      "dr": 49,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "StartupTrusted",
+      "domain": "startuptrusted.com",
+      "url": "https://startuptrusted.com/",
+      "dr": 49,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "We Like Tools",
+      "domain": "weliketools.com",
+      "url": "https://weliketools.com/",
+      "dr": 49,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SaaSBison",
+      "domain": "saasbison.com",
+      "url": "https://saasbison.com/",
+      "dr": 48,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SaaSCity",
+      "domain": "saascity.io",
+      "url": "https://saascity.io/submit",
+      "dr": 47,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Micro SaaS Examples",
+      "domain": "microsaasexamples.com",
+      "url": "https://www.microsaasexamples.com/",
+      "dr": 46,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SaaSGrow",
+      "domain": "saasgrow.app",
+      "url": "https://saasgrow.app/",
+      "dr": 46,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SoloPush",
+      "domain": "solopush.com",
+      "url": "https://solopush.com/",
+      "dr": 45,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Startups.fm",
+      "domain": "startups.fm",
+      "url": "https://startups.fm/",
+      "dr": 45,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Awesome Tools",
+      "domain": "awesome.tools",
+      "url": "https://awesome.tools/",
+      "dr": 44,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "DodoDirectory",
+      "domain": "dododirectory.com",
+      "url": "https://dododirectory.com/",
+      "dr": 43,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Proofstories",
+      "domain": "proofstories.io",
+      "url": "https://proofstories.io/directory",
+      "dr": 43,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "TinyLaunchpad",
+      "domain": "tinylaunchpad.com",
+      "url": "https://tinylaunchpad.com/",
+      "dr": 43,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AiTools",
+      "domain": "aitools.fyi",
+      "url": "https://aitools.fyi/",
+      "dr": 42,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "IndieHub",
+      "domain": "indiehub.best",
+      "url": "https://indiehub.best/",
+      "dr": 42,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "ProductBurst",
+      "domain": "productburst.com",
+      "url": "https://productburst.com/",
+      "dr": 41,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "startuplist.ing",
+      "domain": "startuplist.ing",
+      "url": "https://startuplist.ing/",
+      "dr": 41,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "BuildVoyage",
+      "domain": "buildvoyage.com",
+      "url": "https://buildvoyage.com/",
+      "dr": 40,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "FindYourSaaS",
+      "domain": "findyoursaas.com",
+      "url": "https://www.findyoursaas.com/",
+      "dr": 40,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Saaspa.ge",
+      "domain": "saaspa.ge",
+      "url": "https://www.saaspa.ge/",
+      "dr": 40,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Sumodir",
+      "domain": "sumodir.com",
+      "url": "https://sumodir.com/",
+      "dr": 40,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Web Review",
+      "domain": "web-review.com",
+      "url": "https://web-review.com/",
+      "dr": 40,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "toolfolio",
+      "domain": "toolfolio.io",
+      "url": "https://toolfolio.io/",
+      "dr": 39,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "1000.tools",
+      "domain": "1000.tools",
+      "url": "https://1000.tools/",
+      "dr": 38,
+      "dofollow": false,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "SubmitHunt",
+      "domain": "submithunt.com",
+      "url": "https://www.submithunt.com/",
+      "dr": 37,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "TechTrendin",
+      "domain": "techtrendin.com",
+      "url": "https://www.techtrendin.com/",
+      "dr": 37,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "ConfettiSaaS",
+      "domain": "confettisaas.com",
+      "url": "https://confettisaas.com",
+      "dr": 36,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "RankYourAI",
+      "domain": "rankyourai.com",
+      "url": "https://rankyourai.com/",
+      "dr": 35,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Best of Web",
+      "domain": "bestofweb.site",
+      "url": "https://www.bestofweb.site/",
+      "dr": 34,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Made with Lovable",
+      "domain": "madewithlovable.com",
+      "url": "https://madewithlovable.com/",
+      "dr": 33,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "LLM Relevance",
+      "domain": "llmrelevance.com",
+      "url": "https://llmrelevance.com/",
+      "dr": 32,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "ShipYard HQ",
+      "domain": "shipyardhq.dev",
+      "url": "https://shipyardhq.dev",
+      "dr": 32,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Builtbyindies",
+      "domain": "builtbyindies.com",
+      "url": "https://builtbyindies.com/",
+      "dr": 31,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Resource.fyi",
+      "domain": "resource.fyi",
+      "url": "https://resource.fyi/",
+      "dr": 31,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Startups.fyi",
+      "domain": "startups.fyi",
+      "url": "https://startups.fyi/",
+      "dr": 31,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "HUNT0",
+      "domain": "hunt0.com",
+      "url": "https://hunt0.com",
+      "dr": 30,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "IndieHackerStacks",
+      "domain": "indiehackerstacks.com",
+      "url": "https://indiehackerstacks.com/",
+      "dr": 30,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Stellar Launch",
+      "domain": "stellarlaunch.org",
+      "url": "https://stellarlaunch.org/",
+      "dr": 30,
+      "dofollow": false,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "AwesomeIndie",
+      "domain": "awesomeindie.com",
+      "url": "https://awesomeindie.com/",
+      "dr": 28,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "startuups",
+      "domain": "startuups.com",
+      "url": "https://startuups.com/",
+      "dr": 26,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "EuroAlternative",
+      "domain": "euroalternative.co",
+      "url": "https://euroalternative.co",
+      "dr": 25,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Toollist",
+      "domain": "toollist.ai",
+      "url": "https://toollist.ai/",
+      "dr": 25,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "ToolHub",
+      "domain": "toolhub.me",
+      "url": "https://toolhub.me/",
+      "dr": 24,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "ProductLaunchpad",
+      "domain": "productlaunchpad.app",
+      "url": "https://productlaunchpad.app/",
+      "dr": 23,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Saassy Board",
+      "domain": "saassy-board.com",
+      "url": "https://saassy-board.com/",
+      "dr": 21,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Justgotfound",
+      "domain": "justgotfound.com",
+      "url": "https://justgotfound.com/",
+      "dr": 20,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "madewithbolt",
+      "domain": "madewithbolt.com",
+      "url": "https://madewithbolt.com/",
+      "dr": 20,
+      "dofollow": false,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Launch Vibe",
+      "domain": "launchvibe.app",
+      "url": "https://www.launchvibe.app/",
+      "dr": 13,
+      "dofollow": true,
+      "pricing": "free",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Postioo",
+      "domain": "postioo.com",
+      "url": "https://postioo.com",
+      "dr": 8,
+      "dofollow": true,
+      "pricing": "paid",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Launchy.tools",
+      "domain": "launchy.tools",
+      "url": "https://launchy.tools/",
+      "dr": 7,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    },
+    {
+      "name": "Toolcurio",
+      "domain": "toolcurio.com",
+      "url": "https://toolcurio.com/",
+      "dr": 4.5,
+      "dofollow": true,
+      "pricing": "freemium",
+      "category": "Launch platform",
+      "source": "launchdirectories"
+    }
+  ]
+}

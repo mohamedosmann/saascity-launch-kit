@@ -1,0 +1,151 @@
+name,domain,url,dr,dofollow,pricing,category,source
+Reddit,reddit.com,https://www.reddit.com/,95,False,free,Launch platform,launchdirectories
+Forbes Cloud 100,forbes.com,https://www.forbes.com/cloud100,94.0,False,free,SaaS Tools,saascity-superlist
+Trustpilot,trustpilot.com,https://trustpilot.com,94.0,False,freemium,Software Reviews,saascity-superlist
+Digg,digg.com,https://digg.com,92.0,False,free,Tech / Startups,saascity-superlist
+Fastcompany,fastcompany.com,http://www.fastcompany.com,92.0,False,free,Tech / Startups,saascity-superlist
+Sourceforge,sourceforge.net,https://sourceforge.net/,92,True,freemium,Launch platform,launchdirectories
+Stack Overflow,stackoverflow.com,https://stackoverflow.com,92.0,False,free,Developer Tools,saascity-superlist
+TechCrunch,techcrunch.com,https://techcrunch.com,92,False,paid,Launch platform,launchdirectories
+The Verge,theverge.com,https://www.theverge.com,92.0,False,free,Tech / Startups,saascity-superlist
+Wired,wired.com,http://www.wired.com,92.0,False,free,Tech / Startups,saascity-superlist
+"BostInno Startups, Tech News and Events",bizjournals.com,https://bizjournals.com,91.0,False,free,Tech / Startups,saascity-superlist
+Capterra,capterra.com,https://www.capterra.com/,91,True,freemium,Launch platform,launchdirectories
+Clutch,clutch.co,https://clutch.co,91.0,False,free,Software Reviews,saascity-superlist
+CNET,cnet.com,https://www.cnet.com/news,91.0,False,free,Tech / Startups,saascity-superlist
+Crunchbase,crunchbase.com,https://crunchbase.com,91.0,False,freemium,Startup Directory,saascity-superlist
+CrunchBase News,news.crunchbase.com,https://news.crunchbase.com,91.0,False,free,Tech / Startups,saascity-superlist
+Entrepreneur,entrepreneur.com,https://entrepreneur.com,91.0,False,free,Tech / Startups,saascity-superlist
+G2,g2.com,https://www.g2.com/,91,True,freemium,Launch platform,launchdirectories
+Hacker News,news.ycombinator.com,https://news.ycombinator.com,91,False,free,Launch platform,launchdirectories
+Inc. Magazine,inc.com,https://www.inc.com,91.0,False,free,Tech / Startups,saascity-superlist
+Mashable,mashable.com,https://mashable.com,91.0,False,paid,Tech / Startups,saascity-superlist
+Mashable India,in.mashable.com,https://in.mashable.com,91.0,False,free,Tech / Startups,saascity-superlist
+PCMag,pcmag.com,https://pcmag.com,91.0,False,paid,Software Reviews,saascity-superlist
+Product Hunt,producthunt.com,https://www.producthunt.com/,91,False,free,Launch platform,launchdirectories
+Spotlight by Y Combinator,ycombinator.com,https://www.ycombinator.com/launches,91.0,False,free,Tech / Startups,saascity-superlist
+TechRadar Pro,techradar.com,https://www.techradar.com/pro,91.0,False,paid,Software Reviews,saascity-superlist
+VentureBeat,venturebeat.com,https://venturebeat.com,91.0,False,paid,Tech / Startups,saascity-superlist
+Zapier App Directory,zapier.com,https://zapier.com/apps,91.0,False,free,SaaS Tools,saascity-superlist
+Engadget,engadget.com,http://www.engadget.com,90.0,False,free,Tech / Startups,saascity-superlist
+Gizmodo,gizmodo.com,http://www.gizmodo.com,90.0,False,free,Tech / Startups,saascity-superlist
+Make App Directory,make.com,https://www.make.com/en/integrations,90.0,False,free,SaaS Tools,saascity-superlist
+MIT Technology Review,technologyreview.com,https://www.technologyreview.com,90.0,False,free,Tech / Startups,saascity-superlist
+Smashing Magazine,smashingmagazine.com,https://www.smashingmagazine.com,90.0,False,free,Tech / Startups,saascity-superlist
+PC World,pcworld.com,https://www.pcworld.com,88.0,False,free,Tech / Startups,saascity-superlist
+StartupFA.me,startupfa.me,https://startupfa.me/,83,True,paid,Launch platform,launchdirectories
+Fazier,fazier.com,https://fazier.com/,82,True,freemium,Launch platform,launchdirectories
+Dang AI,dang.ai,https://dang.ai/,81,True,free,Launch platform,launchdirectories
+Indie Hackers,indiehackers.com,https://indiehackers.com,81,True,free,Launch platform,launchdirectories
+Twelve Tools,twelve.tools,https://twelve.tools/,81,True,freemium,Launch platform,launchdirectories
+findly.tools,findly.tools,https://findly.tools,80,True,freemium,Launch platform,launchdirectories
+SaaSHub,saashub.com,https://www.saashub.com/,80,True,free,Launch platform,launchdirectories
+Turbo0,turbo0.com,https://turbo0.com/?via=launchdirectories,80,True,paid,Launch platform,launchdirectories
+AlternativeTo,alternativeto.net,https://alternativeto.net/,79,False,free,Launch platform,launchdirectories
+Toolpilot,toolpilot.ai,https://www.toolpilot.ai/,78,True,paid,Launch platform,launchdirectories
+Peerlist,peerlist.io,https://peerlist.io/,77,False,free,Launch platform,launchdirectories
+There's An AI For That,theresanaiforthat.com,https://theresanaiforthat.com/?via=krzysztof,77,True,paid,Launch platform,launchdirectories
+BetaList,betalist.com,https://betalist.com/,76,True,free,Launch platform,launchdirectories
+Alternative.me,alternative.me,https://alternative.me/,75,True,free,Launch platform,launchdirectories
+LaunchIgniter,launchigniter.com,https://launchigniter.com/,75,False,freemium,Launch platform,launchdirectories
+SubmitAiTools,submitaitools.org,https://submitaitools.org/,75,False,paid,Launch platform,launchdirectories
+Uneed,uneed.best,https://www.uneed.best?atp=pBmSdT,75,True,paid,Launch platform,launchdirectories
+PeerPush,peerpush.net,https://peerpush.net/,73,True,freemium,Launch platform,launchdirectories
+SoftwareWorld,softwareworld.co,https://www.softwareworld.co/,73,True,freemium,Launch platform,launchdirectories
+Aura++,auraplusplus.com,https://auraplusplus.com/,72,True,freemium,Launch platform,launchdirectories
+FoundrList,foundrlist.com,https://foundrlist.com/,72,True,free,Launch platform,launchdirectories
+neeed.directory,neeed.directory,https://neeed.directory/,72,True,free,Launch platform,launchdirectories
+TinyLaunch,tinylaunch.com,https://www.tinylaunch.com/,72,True,freemium,Launch platform,launchdirectories
+Open Launch,open-launch.com,https://open-launch.com/,71,True,free,Launch platform,launchdirectories
+SideProjectors,sideprojectors.com,https://www.sideprojectors.com/,71,True,freemium,Launch platform,launchdirectories
+startupfa.st,startupfa.st,https://www.startupfa.st/,71,False,freemium,Launch platform,launchdirectories
+magicbox.tools,magicbox.tools,https://magicbox.tools/,70,True,freemium,Launch platform,launchdirectories
+Smol Launch,smollaunch.com,https://smollaunch.com/,70,True,freemium,Launch platform,launchdirectories
+Tiny Startups,tinystartups.com,https://tinystartups.com/,70,True,free,Launch platform,launchdirectories
+Versily,versily.com,https://versily.com,70,True,free,Launch platform,launchdirectories
+Future Tools,futuretools.io,https://www.futuretools.io/,69,True,free,Launch platform,launchdirectories
+Pitchwall,pitchwall.co,https://pitchwall.co/,69,False,freemium,Launch platform,launchdirectories
+TrustMRR,trustmrr.com,https://trustmrr.com/,69,True,free,Launch platform,launchdirectories
+AiTools,aitools.inc,https://aitools.inc/,68,False,freemium,Launch platform,launchdirectories
+NextGen Tools,nxgntools.com,https://www.nxgntools.com,68,True,freemium,Launch platform,launchdirectories
+Openhunts,openhunts.com,https://openhunts.com/,67,True,freemium,Launch platform,launchdirectories
+StartupBase,startupbase.io,https://startupbase.io/,67,True,freemium,Launch platform,launchdirectories
+acidtools.com,acidtools.com,https://acidtools.com/,66,True,free,Launch platform,launchdirectories
+toolsfine,toolsfine.com,https://toolsfine.com/,65,True,free,Launch platform,launchdirectories
+Launch Llama Tools,tools.launchllama.co,https://tools.launchllama.co/,64,True,free,Launch platform,launchdirectories
+Startup Stash,startupstash.com,https://startupstash.com/,64,False,free,Launch platform,launchdirectories
+DevHunt,devhunt.org,https://devhunt.org/,62,True,freemium,Launch platform,launchdirectories
+MicroLaunch,microlaunch.net,https://microlaunch.net/,61,True,free,Launch platform,launchdirectories
+Super Launch,superlaun.ch,https://www.superlaun.ch,61,True,freemium,Launch platform,launchdirectories
+Indie Deals,indie.deals,https://www.indie.deals/,60,True,paid,Launch platform,launchdirectories
+Toolfio,toolfio.com,https://toolfio.com/,60,True,freemium,Launch platform,launchdirectories
+aiwith.me,aiwith.me,https://aiwith.me/,59,True,paid,Launch platform,launchdirectories
+FridayHunt,fridayhunt.com,https://fridayhunt.com/,59,True,freemium,Launch platform,launchdirectories
+Huzzler,huzzler.so,https://huzzler.so/,59,True,freemium,Launch platform,launchdirectories
+Indiehunt,indiehunt.io,https://indiehunt.io/,59,True,freemium,Launch platform,launchdirectories
+EarlyHunt,earlyhunt.com,https://earlyhunt.com/,58,True,freemium,Launch platform,launchdirectories
+Unite List,unitelist.com,https://unitelist.com/,56,True,free,Launch platform,launchdirectories
+SaasHunt,saashunt.best,https://saashunt.best/,55,True,freemium,Launch platform,launchdirectories
+Startups Lab,startupslab.site,https://startupslab.site,55,True,freemium,Launch platform,launchdirectories
+Firsto,firsto.co,https://firsto.co/,54,False,free,Launch platform,launchdirectories
+Launch,trylaunch.ai,https://trylaunch.ai/,54,True,freemium,Launch platform,launchdirectories
+hot100,hot100.ai,https://www.hot100.ai/,52,True,free,Launch platform,launchdirectories
+Launching Next,launchingnext.com,https://www.launchingnext.com/,52,True,free,Launch platform,launchdirectories
+Shipybara,shipybara.com,https://shipybara.com/,52,True,freemium,Launch platform,launchdirectories
+AI Tech Viral,aitechviral.com,https://aitechviral.com/,51,False,free,Launch platform,launchdirectories
+Open Alternative,openalternative.co,https://openalternative.co/,51,True,free,Launch platform,launchdirectories
+AppaList,appalist.com,https://appalist.com/,50,True,freemium,Launch platform,launchdirectories
+Daily Pings,dailypings.com,https://dailypings.com/,50,True,freemium,Launch platform,launchdirectories
+IdeaKiln,ideakiln.com,https://ideakiln.com,50,True,free,Launch platform,launchdirectories
+rankinpublic.xyz,rankinpublic.xyz,https://rankinpublic.xyz/,50,False,freemium,Launch platform,launchdirectories
+Promote Project,promoteproject.com,https://www.promoteproject.com/,49,True,free,Launch platform,launchdirectories
+StartupTrusted,startuptrusted.com,https://startuptrusted.com/,49,True,freemium,Launch platform,launchdirectories
+We Like Tools,weliketools.com,https://weliketools.com/,49,False,freemium,Launch platform,launchdirectories
+SaaSBison,saasbison.com,https://saasbison.com/,48,True,freemium,Launch platform,launchdirectories
+SaaSCity,saascity.io,https://saascity.io/submit,47,True,freemium,Launch platform,launchdirectories
+Micro SaaS Examples,microsaasexamples.com,https://www.microsaasexamples.com/,46,False,freemium,Launch platform,launchdirectories
+SaaSGrow,saasgrow.app,https://saasgrow.app/,46,True,freemium,Launch platform,launchdirectories
+SoloPush,solopush.com,https://solopush.com/,45,True,paid,Launch platform,launchdirectories
+Startups.fm,startups.fm,https://startups.fm/,45,True,paid,Launch platform,launchdirectories
+Awesome Tools,awesome.tools,https://awesome.tools/,44,False,freemium,Launch platform,launchdirectories
+DodoDirectory,dododirectory.com,https://dododirectory.com/,43,True,freemium,Launch platform,launchdirectories
+Proofstories,proofstories.io,https://proofstories.io/directory,43,True,freemium,Launch platform,launchdirectories
+TinyLaunchpad,tinylaunchpad.com,https://tinylaunchpad.com/,43,True,freemium,Launch platform,launchdirectories
+AiTools,aitools.fyi,https://aitools.fyi/,42,True,paid,Launch platform,launchdirectories
+IndieHub,indiehub.best,https://indiehub.best/,42,False,paid,Launch platform,launchdirectories
+ProductBurst,productburst.com,https://productburst.com/,41,True,free,Launch platform,launchdirectories
+startuplist.ing,startuplist.ing,https://startuplist.ing/,41,True,paid,Launch platform,launchdirectories
+BuildVoyage,buildvoyage.com,https://buildvoyage.com/,40,True,freemium,Launch platform,launchdirectories
+FindYourSaaS,findyoursaas.com,https://www.findyoursaas.com/,40,True,freemium,Launch platform,launchdirectories
+Saaspa.ge,saaspa.ge,https://www.saaspa.ge/,40,True,free,Launch platform,launchdirectories
+Sumodir,sumodir.com,https://sumodir.com/,40,True,freemium,Launch platform,launchdirectories
+Web Review,web-review.com,https://web-review.com/,40,True,freemium,Launch platform,launchdirectories
+toolfolio,toolfolio.io,https://toolfolio.io/,39,False,freemium,Launch platform,launchdirectories
+1000.tools,1000.tools,https://1000.tools/,38,False,paid,Launch platform,launchdirectories
+SubmitHunt,submithunt.com,https://www.submithunt.com/,37,True,paid,Launch platform,launchdirectories
+TechTrendin,techtrendin.com,https://www.techtrendin.com/,37,True,free,Launch platform,launchdirectories
+ConfettiSaaS,confettisaas.com,https://confettisaas.com,36,True,freemium,Launch platform,launchdirectories
+RankYourAI,rankyourai.com,https://rankyourai.com/,35,True,free,Launch platform,launchdirectories
+Best of Web,bestofweb.site,https://www.bestofweb.site/,34,True,free,Launch platform,launchdirectories
+Made with Lovable,madewithlovable.com,https://madewithlovable.com/,33,True,free,Launch platform,launchdirectories
+LLM Relevance,llmrelevance.com,https://llmrelevance.com/,32,True,free,Launch platform,launchdirectories
+ShipYard HQ,shipyardhq.dev,https://shipyardhq.dev,32,True,freemium,Launch platform,launchdirectories
+Builtbyindies,builtbyindies.com,https://builtbyindies.com/,31,True,freemium,Launch platform,launchdirectories
+Resource.fyi,resource.fyi,https://resource.fyi/,31,True,free,Launch platform,launchdirectories
+Startups.fyi,startups.fyi,https://startups.fyi/,31,True,paid,Launch platform,launchdirectories
+HUNT0,hunt0.com,https://hunt0.com,30,True,freemium,Launch platform,launchdirectories
+IndieHackerStacks,indiehackerstacks.com,https://indiehackerstacks.com/,30,True,free,Launch platform,launchdirectories
+Stellar Launch,stellarlaunch.org,https://stellarlaunch.org/,30,False,freemium,Launch platform,launchdirectories
+AwesomeIndie,awesomeindie.com,https://awesomeindie.com/,28,False,free,Launch platform,launchdirectories
+startuups,startuups.com,https://startuups.com/,26,True,freemium,Launch platform,launchdirectories
+EuroAlternative,euroalternative.co,https://euroalternative.co,25,True,free,Launch platform,launchdirectories
+Toollist,toollist.ai,https://toollist.ai/,25,True,paid,Launch platform,launchdirectories
+ToolHub,toolhub.me,https://toolhub.me/,24,True,paid,Launch platform,launchdirectories
+ProductLaunchpad,productlaunchpad.app,https://productlaunchpad.app/,23,True,free,Launch platform,launchdirectories
+Saassy Board,saassy-board.com,https://saassy-board.com/,21,True,paid,Launch platform,launchdirectories
+Justgotfound,justgotfound.com,https://justgotfound.com/,20,True,free,Launch platform,launchdirectories
+madewithbolt,madewithbolt.com,https://madewithbolt.com/,20,False,free,Launch platform,launchdirectories
+Launch Vibe,launchvibe.app,https://www.launchvibe.app/,13,True,free,Launch platform,launchdirectories
+Postioo,postioo.com,https://postioo.com,8,True,paid,Launch platform,launchdirectories
+Launchy.tools,launchy.tools,https://launchy.tools/,7,True,freemium,Launch platform,launchdirectories
+Toolcurio,toolcurio.com,https://toolcurio.com/,4.5,True,freemium,Launch platform,launchdirectories
