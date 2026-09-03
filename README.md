@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/saascity.io-0b1220?style=for-the-badge&logo=googlechrome&logoColor=60a5fa)](https://saascity.io)
 [![Submit](https://img.shields.io/badge/submit_your_SaaS-free-2563eb?style=for-the-badge)](https://saascity.io/submit)
-[![Domain Rating](https://img.shields.io/badge/Ahrefs_DR-46-16a34a?style=for-the-badge)](https://saascity.io)
+[![Domain Rating](https://img.shields.io/badge/Ahrefs_DR-59-16a34a?style=for-the-badge)](https://saascity.io)
 [![Directories in this repo](https://img.shields.io/badge/free_directory_list-150-8b5cf6?style=for-the-badge)](directories.md)
 [![License](https://img.shields.io/badge/code-MIT-64748b?style=for-the-badge)](LICENSE)
 
